@@ -9,7 +9,7 @@ The front-end has been developed in angular.js and backend is in python flask fr
   pip install -r requirements.txt
 * Run the application:
   python app.py
-* The application will run on local host port 8080
+* The application will run on local host port at 8080
 * Enter the company stock symbol in the text box and click Submit
 * The prediction for the input will be displayed based on Artificial Neural Network forecast model as shown below:
 
